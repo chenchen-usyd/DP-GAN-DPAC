@@ -1,0 +1,9 @@
+matplotlib
+autodp
+scikit-learn
+xgboost
+progress
+pandas
+seaborn
+ipykernel
+joypy
