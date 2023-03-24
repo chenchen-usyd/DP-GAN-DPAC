@@ -1,6 +1,6 @@
 # DP-GAN-DPAC
 
-This file contains the implementation for the paper: Private Image Generation with Dual-Purpose Auxiliary Classifier.
+This is the official code base for our CVPR2023 paper: Private Image Generation with Dual-Purpose Auxiliary Classifier.
 
 
 ## Dependencies 
