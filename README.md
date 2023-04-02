@@ -2,6 +2,8 @@
 
 This is the official code base for our CVPR2023 paper: Private Image Generation with Dual-Purpose Auxiliary Classifier.
 
+Contact: Chen Chen (cche0711@uni.sydney.edu.au)
+
 
 ## Dependencies 
 The environment can be prepared with the following commands:
